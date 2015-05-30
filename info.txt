@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name" "Spiderman's Swep!"
+	"author_name" "The Killer [NL]"
+	"info" "This is the spiderman gun from 2015/05/29
+
+
+"
+}
